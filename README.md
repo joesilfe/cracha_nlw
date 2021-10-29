@@ -1,8 +1,8 @@
 # cracha_nlw
-Crachá sendo produzido no NLW Heat
+Crachá em html sendo produzido no NLW Heat 
 
 
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+![Crachá no gitHub](https://joesilfe.github.io/cracha_nlw/)
 ## What is inside?
 
 This project uses lot of stuff as:

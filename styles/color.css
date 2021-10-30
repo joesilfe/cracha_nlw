@@ -1,4 +1,6 @@
 :root {
-    --black: hsla(240, 6%, 21%);
+    --black-neutral-darkest: hsla(240, 6%, 8%);
+    --black-neutral-dark: hsla(240, 6%, 13%);
+    --black-neutral-medium: hsla(240, 6%, 21%);
     --gray: hsla(240, 9%, 89%);
 }

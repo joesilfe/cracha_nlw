@@ -8,7 +8,7 @@ body {
   height: 100%;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
-  background: var(--black-neutral-darkest);
+  background: var(--black-neutral-dark);
 }
 
 body {
@@ -37,6 +37,12 @@ main {
 }
 
 @media (min-width: 576px) {
+
+  html,
+  body {
+    background: var(--black-neutral-darkest);
+  }
+
   .container {
     max-width: 358px;
   }
@@ -45,7 +51,7 @@ main {
     background-image: url(../images/cracha2.svg), url(../images/backgroundDesk.svg);
     background-size: auto;
     background-position: center top;
-    background-repeat: no-repeat;  
+    background-repeat: no-repeat;
     /* min-height: 812px; */
   }
 }

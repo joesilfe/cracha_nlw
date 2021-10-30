@@ -36,7 +36,7 @@ main {
   height: 100vh;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 480px) {
 
   html,
   body {

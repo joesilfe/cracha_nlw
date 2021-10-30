@@ -65,12 +65,11 @@
   background-color: var(--black-neutral-medium);
 }
 
-@media (min-width: 576px) {
+@media (min-width: 480px) {
 
   .profile .avatar {
     margin: 12rem auto 0;
-  }
-  
+  }  
 
   .profile p {
     position: relative;    

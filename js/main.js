@@ -22,8 +22,6 @@ function changeSocialMedia() {
 
         li.children[0].href = `https://${social}.com/${linkSocialMedia[social].user}`;
     }
-
-    // userName.textContent = "Marcelo"
 }
 
 function getGitHubProfileInfos() {
@@ -38,8 +36,6 @@ function getGitHubProfileInfos() {
         userLink.href = data.html_url
         userImage.src = data.avatar_url
         userLogin.textContent = data.login
-
-        console.log(data)
     })
     .catch((err) => console.log(err));
 }
